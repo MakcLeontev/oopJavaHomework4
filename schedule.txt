@@ -1,0 +1,10 @@
+Task{taskId=1, addDate=2022-12-04, addTime=17:05:44.508214500, deadLine=qregqher, name='qerg', textTask='qrg', priority=HIGH}
+Task{taskId=1, addDate=2022-12-04, addTime=17:05:44.508214500, deadLine=qregqher, name='qerg', textTask='qrg', priority=HIGH}
+Task{taskId=2, addDate=2022-12-04, addTime=17:06:04.996386400, deadLine=tjhwtjhw, name='wefgweq', textTask='rqgerhqrh', priority=LOW}
+Task{taskId=1, addDate=2022-12-04, addTime=17:06:49.418927200, deadLine=qergq, name='fgweq', textTask='geqrg', priority=LOW}
+Task{taskId=0, addDate=2022-12-04, addTime=17:16:13.515191700, deadLine=gqwerg, name='ewgqwe', textTask='wqegqw', priority=LOW}
+Task{taskId=0, addDate=2022-12-04, addTime=17:53:04.746666900, deadLine=qwergvbrqe, name='vbeqrb', textTask='bqerb', priority=LOW}
+Task{taskId=0, addDate=2022-12-04, addTime=18:33:17.178650100, deadLine=323/223/323, name='rqver', textTask='qrgqerg', priority=HIGH}
+Task{taskId=0, addDate=2022-12-04, addTime=18:34:22.620393100, deadLine=qreg, name='rgfqwer', textTask='gqrgq', priority=HIGH}
+Task{taskId=0, addDate=2022-12-04, addTime=18:35:46.860211400, deadLine=hwqh, name='hwe', textTask='h', priority=LOW}
+Task{taskId=10, addDate=2022-12-04, addTime=18:39:45.175842300, deadLine=ewrhwer, name='regqr', textTask='rehe', priority=LOW}
